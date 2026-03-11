@@ -30,7 +30,7 @@ This track focuses on building and experimenting with **Model Context Protocol (
 
 In this track, teams will use **GitHub Copilot Spec Kit** to turn product ideas into working features through structured specifications. Starting from a clear problem statement, participants will define requirements, generate design artifacts, and implement a product feature with Copilot's help, showcasing how spec‑driven development can accelerate delivery, improve clarity, and align engineering output with business intent.
 
-> 💻 [Start Lab](https://microsoftlearning.github.io/mslearn-github-copilot-dev/Instructions/Labs/LAB_AK_13_implement-spec-driven-development.html)
+> 💻 [Start Lab](https://microsoftlearning.github.io/mslearn-github-copilot-dev/Instructions/Labs/LAB_AK_13_get-started-spec-driven-development.html)
 
 ---
 
