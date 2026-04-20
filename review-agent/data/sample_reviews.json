@@ -1,0 +1,287 @@
+[
+  {
+    "restaurant": "Bella Italia",
+    "reviews": [
+      {
+        "author": "John M.",
+        "rating": 5,
+        "text": "Absolutely fantastic pasta! The homemade tagliatelle was perfectly al dente, and the truffle cream sauce was to die for. Best Italian food I've had in this city.",
+        "date": "2026-03-15"
+      },
+      {
+        "author": "Sarah K.",
+        "rating": 2,
+        "text": "The food was okay but the service was terrible. We waited 45 minutes before anyone even took our order. Our waiter seemed completely disinterested and got two items wrong.",
+        "date": "2026-03-10"
+      },
+      {
+        "author": "Mike R.",
+        "rating": 1,
+        "text": "Worst dining experience ever. The restaurant was filthy — sticky tables, dirty floors, and I found a hair in my soup. The bathroom was disgusting. Will never return.",
+        "date": "2026-03-08"
+      },
+      {
+        "author": "Emily T.",
+        "rating": 4,
+        "text": "Lovely ambiance with dim lighting and soft Italian music. The decor is charming and romantic, perfect for a date night. Food was good too, though a bit pricey.",
+        "date": "2026-03-05"
+      },
+      {
+        "author": "David L.",
+        "rating": 1,
+        "text": "Extremely overpriced for what you get. A small plate of spaghetti for $28? The portions are tiny and the quality doesn't justify the cost at all. Total rip-off.",
+        "date": "2026-02-28"
+      },
+      {
+        "author": "Lisa W.",
+        "rating": 3,
+        "text": "Average experience. The pizza was decent but nothing special. Service was slow but the staff were friendly enough. The wait time to get a table was about 30 minutes even with a reservation.",
+        "date": "2026-02-25"
+      },
+      {
+        "author": "Chris P.",
+        "rating": 5,
+        "text": "The chef really knows what he's doing! The osso buco was melt-in-your-mouth tender, and the tiramisu was the best I've ever tasted. Incredible flavors throughout the meal.",
+        "date": "2026-02-20"
+      },
+      {
+        "author": "Anna B.",
+        "rating": 2,
+        "text": "Waited over an hour for our main course. When it finally arrived, my steak was overcooked and cold. The manager offered no apology or compensation. Extremely disappointing service.",
+        "date": "2026-02-18"
+      },
+      {
+        "author": "Tom H.",
+        "rating": 4,
+        "text": "Great wine selection and the sommelier really knew his stuff. The bruschetta appetizer was fresh and delicious. Would recommend for the drinks alone.",
+        "date": "2026-02-15"
+      },
+      {
+        "author": "Rachel G.",
+        "rating": 1,
+        "text": "Found a cockroach near our table. The place clearly has hygiene issues. The kitchen looked messy through the open window. Health inspector should visit this place.",
+        "date": "2026-02-10"
+      },
+      {
+        "author": "James F.",
+        "rating": 3,
+        "text": "The food is decent but they really need to work on their wait times. We had a reservation for 7pm and didn't get seated until 7:30. Then waited another 40 minutes for appetizers.",
+        "date": "2026-02-05"
+      },
+      {
+        "author": "Olivia N.",
+        "rating": 5,
+        "text": "Beautiful restaurant with amazing food. The seafood risotto was creamy and packed with fresh shrimp and mussels. The staff were attentive and made us feel welcome.",
+        "date": "2026-01-30"
+      },
+      {
+        "author": "Daniel S.",
+        "rating": 2,
+        "text": "Way too expensive. We spent $200 for two people and left hungry. The portions are laughably small. You're basically paying for the name and location, not the food quality.",
+        "date": "2026-01-25"
+      },
+      {
+        "author": "Sophie C.",
+        "rating": 4,
+        "text": "The ambiance is wonderful — candlelit tables, beautiful art on the walls, and a lovely patio area. Food quality was solid too. Only downside is the noise level gets high on weekends.",
+        "date": "2026-01-20"
+      },
+      {
+        "author": "Kevin A.",
+        "rating": 1,
+        "text": "Rude staff and terrible management. When I complained about cold food, the waiter rolled his eyes. The manager was dismissive and condescending. Zero customer service skills.",
+        "date": "2026-01-15"
+      }
+    ]
+  },
+  {
+    "restaurant": "Tokyo Ramen House",
+    "reviews": [
+      {
+        "author": "Patricia D.",
+        "rating": 5,
+        "text": "The tonkotsu ramen is absolutely incredible! Rich, creamy broth that has been simmered for hours. The chashu pork melts in your mouth. Authentic Japanese flavors.",
+        "date": "2026-03-18"
+      },
+      {
+        "author": "Brian J.",
+        "rating": 1,
+        "text": "Terrible service. The staff were rude and rushed us through our meal. They brought the wrong order twice and didn't apologize. Never going back to this place.",
+        "date": "2026-03-12"
+      },
+      {
+        "author": "Nancy E.",
+        "rating": 4,
+        "text": "Great ramen with generous portions. The spicy miso ramen had a nice kick and the noodles were perfectly cooked. Prices are reasonable for the quality you get.",
+        "date": "2026-03-06"
+      },
+      {
+        "author": "George V.",
+        "rating": 2,
+        "text": "The restaurant is cramped and uncomfortable. Tables are too close together, the noise level is unbearable, and the chairs are incredibly hard. Not a pleasant dining environment at all.",
+        "date": "2026-02-27"
+      },
+      {
+        "author": "Helen Y.",
+        "rating": 5,
+        "text": "Best ramen in town! The gyoza appetizers are crispy and flavorful, and their matcha ice cream dessert is divine. Every dish we tried was excellent quality.",
+        "date": "2026-02-22"
+      },
+      {
+        "author": "Steven U.",
+        "rating": 1,
+        "text": "Found the place quite dirty. Spills on the floor, greasy menus, and the chopsticks had food residue on them. Clearly they don't care about cleanliness or hygiene standards.",
+        "date": "2026-02-17"
+      },
+      {
+        "author": "Karen I.",
+        "rating": 3,
+        "text": "The food is good but the wait time is ridiculous. We waited 25 minutes just to place our order and another 35 for the food. Way too slow for a ramen shop.",
+        "date": "2026-02-12"
+      },
+      {
+        "author": "Robert Z.",
+        "rating": 4,
+        "text": "Love the authentic atmosphere with Japanese decor and music. The sushi rolls were fresh and beautifully presented. Great date spot if you get there early.",
+        "date": "2026-02-07"
+      },
+      {
+        "author": "Maria X.",
+        "rating": 2,
+        "text": "Overpriced for ramen. $18 for a basic bowl with barely any toppings? And they charge extra for an egg? Other ramen places in the area offer much better value.",
+        "date": "2026-02-02"
+      },
+      {
+        "author": "William O.",
+        "rating": 5,
+        "text": "Outstanding food quality. The black garlic ramen is a masterpiece — complex, deep umami flavor. The soft-boiled egg was perfectly runny. Chef clearly has serious skills.",
+        "date": "2026-01-28"
+      },
+      {
+        "author": "Jessica Q.",
+        "rating": 1,
+        "text": "Absolutely horrible customer service. The waiter was aggressive when we asked about allergens in the food. Manager refused to come to our table. Unacceptable behavior.",
+        "date": "2026-01-23"
+      },
+      {
+        "author": "Thomas W.",
+        "rating": 3,
+        "text": "Middle of the road experience. Ramen broth was a bit bland compared to other places. Noodles were fine. Nothing terrible but nothing that would make me come back specifically.",
+        "date": "2026-01-18"
+      },
+      {
+        "author": "Linda M.",
+        "rating": 2,
+        "text": "The bathroom was out of order and the restaurant was freezing cold. No one seemed to care about the temperature. Very uncomfortable and the food was lukewarm too.",
+        "date": "2026-01-13"
+      },
+      {
+        "author": "Mark T.",
+        "rating": 4,
+        "text": "Really enjoyed the variety on the menu. The takoyaki starter was crispy outside and soft inside. The curry ramen was a nice twist on the classic. Good portions for the price.",
+        "date": "2026-01-08"
+      },
+      {
+        "author": "Susan R.",
+        "rating": 1,
+        "text": "I got food poisoning after eating here. Spent two days sick. The raw fish clearly wasn't fresh. I've reported this to health authorities. Avoid this place at all costs.",
+        "date": "2026-01-03"
+      }
+    ]
+  },
+  {
+    "restaurant": "The Green Fork",
+    "reviews": [
+      {
+        "author": "Amanda L.",
+        "rating": 5,
+        "text": "Incredible vegan food! The cauliflower steak was beautifully seasoned and the mushroom risotto was rich and creamy without any dairy. Proves plant-based food can be gourmet.",
+        "date": "2026-03-20"
+      },
+      {
+        "author": "Peter K.",
+        "rating": 2,
+        "text": "Very slow service. We waited over 40 minutes for two salads. The staff seemed overwhelmed and understaffed. When the food came, it was cold. Frustrating experience.",
+        "date": "2026-03-14"
+      },
+      {
+        "author": "Diane H.",
+        "rating": 4,
+        "text": "Beautiful restaurant with a lovely garden patio. The natural lighting and plant decor make it feel like an oasis. Very Instagram-worthy. Food was fresh and tasty.",
+        "date": "2026-03-09"
+      },
+      {
+        "author": "Frank J.",
+        "rating": 1,
+        "text": "Absurdly overpriced. $22 for a small bowl of lentil soup? $16 for a side salad? This is highway robbery. The portions are tiny and the food is nothing special for the price.",
+        "date": "2026-03-04"
+      },
+      {
+        "author": "Carol B.",
+        "rating": 5,
+        "text": "The jackfruit tacos were mind-blowing! So flavorful and the texture was perfect. The acai bowl for dessert was beautiful and delicious. Top-notch plant-based cuisine.",
+        "date": "2026-02-26"
+      },
+      {
+        "author": "Henry N.",
+        "rating": 1,
+        "text": "Disgusting hygiene standards. Saw a mouse run across the floor near the kitchen. Tables were not properly cleaned between guests. Lost my appetite immediately.",
+        "date": "2026-02-21"
+      },
+      {
+        "author": "Ruth D.",
+        "rating": 3,
+        "text": "The food is okay for vegan cuisine. Nothing that blew me away. The wait time was about 30 minutes which felt long for what we ordered. Staff were polite though.",
+        "date": "2026-02-16"
+      },
+      {
+        "author": "Paul G.",
+        "rating": 4,
+        "text": "Great menu variety for a plant-based restaurant. The Beyond burger was juicy and the sweet potato fries were crispy. Fair prices compared to similar restaurants in the area.",
+        "date": "2026-02-11"
+      },
+      {
+        "author": "Betty F.",
+        "rating": 2,
+        "text": "The waiter was incredibly rude and impatient. When we asked questions about the menu, he sighed loudly. No smile, no warmth. The food was fine but the service ruined it.",
+        "date": "2026-02-06"
+      },
+      {
+        "author": "Edward C.",
+        "rating": 5,
+        "text": "Exceptional quality ingredients. You can taste the freshness in every bite. The avocado toast with heirloom tomatoes was simple but perfect. Great smoothie selection too.",
+        "date": "2026-02-01"
+      },
+      {
+        "author": "Gloria A.",
+        "rating": 1,
+        "text": "Terrible value for money. We spent $85 for two people and both left hungry. The plates look artistic but contain barely any food. All style, no substance.",
+        "date": "2026-01-27"
+      },
+      {
+        "author": "Arthur E.",
+        "rating": 3,
+        "text": "Decent enough but the place was freezing. The heating clearly wasn't working and staff didn't seem to care. Food was average — the pasta was undercooked and underseasoned.",
+        "date": "2026-01-22"
+      },
+      {
+        "author": "Dorothy P.",
+        "rating": 4,
+        "text": "Love the eco-friendly approach — compostable packaging, no plastic straws, locally sourced ingredients. The Buddha bowl was colorful and nutritious. A feel-good dining experience.",
+        "date": "2026-01-17"
+      },
+      {
+        "author": "Charles S.",
+        "rating": 2,
+        "text": "The noise level in this restaurant is absurd. We could barely hear each other talk. The acoustics are terrible with all the hard surfaces. Food was mediocre at best.",
+        "date": "2026-01-12"
+      },
+      {
+        "author": "Margaret W.",
+        "rating": 1,
+        "text": "Appalling customer service. The manager argued with us when we pointed out a wrong order. She raised her voice and other diners were staring. Completely unprofessional.",
+        "date": "2026-01-07"
+      }
+    ]
+  }
+]
